@@ -1,0 +1,20 @@
+{
+  "name": "bun-benchmark",
+  "version": "0.0.0",
+  "description": "A simple benchmark tool to compare bun and node.js speed",
+  "main": "index.mjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "bun index.mjs"
+  },
+  "keywords": [
+    "bun",
+    "benchmark",
+    "nodejs",
+    "speedtest"
+  ],
+  "author": "kruceo",
+  "license": "ISC"
+}
